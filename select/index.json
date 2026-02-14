@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "BBB",
+  "base_artist": "柏木ひなた",
+  "createdAt": "2026-02-14T08:31:19.015781Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "BBB",
+      "artist": "How to Destroy Angels",
+      "has_synced": false,
+      "path": "select/01_BBB_How_to_Destroy_Angels.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "BBB",
+      "artist": "Arif feat. Unge Ferrari",
+      "has_synced": true,
+      "path": "select/02_BBB_Arif_feat._Unge_Ferrari.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "BBB",
+      "artist": "Arif & Unge Ferrari",
+      "has_synced": true,
+      "path": "select/03_BBB_Arif_&_Unge_Ferrari.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "BBB - bonus track",
+      "artist": "How to Destroy Angels",
+      "has_synced": false,
+      "path": "select/04_BBB_-_bonus_track_How_to_Destroy_Angels.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "BBB",
+      "artist": "Paledusk feat. Such",
+      "has_synced": true,
+      "path": "select/05_BBB_Paledusk_feat._Such.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "BBB",
+      "artist": "Paledusk",
+      "has_synced": true,
+      "path": "select/06_BBB_Paledusk.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "BBB Feat. Such - Single",
+      "artist": "Paledusk",
+      "has_synced": true,
+      "path": "select/07_BBB_Feat._Such_-_Single_Paledusk.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "BBB (Bad Bitch Behavior)",
+      "artist": "Tay Money",
+      "has_synced": true,
+      "path": "select/08_BBB_(Bad_Bitch_Behavior)_Tay_Money.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "BBB",
+      "artist": "ZO",
+      "has_synced": true,
+      "path": "select/09_BBB_ZO.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Didi (BBB Radio Edit)",
+      "artist": "Khaled",
+      "has_synced": true,
+      "path": "select/10_Didi_(BBB_Radio_Edit)_Khaled.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "BBB (feat. Such)",
+      "artist": "Paledusk",
+      "has_synced": true,
+      "path": "select/11_BBB_(feat._Such)_Paledusk.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Joro Boro (Bbb Remix)",
+      "artist": "Balkan Beat Box",
+      "has_synced": true,
+      "path": "select/12_Joro_Boro_(Bbb_Remix)_Balkan_Beat_Box.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "BBB",
+      "artist": "PURPLE KISS",
+      "has_synced": true,
+      "path": "select/13_BBB_PURPLE_KISS.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "BBB",
+      "artist": "Purple Kiss",
+      "has_synced": false,
+      "path": "select/14_BBB_Purple_Kiss.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "TU JOGA PRA TRAS TU ENCOSTA ENCOSTA vs NO PIQUE BBB - DJ DN O ASTRO Remix",
+      "artist": "DJ Dn o Astro feat. Mc Mascara & Mc Rodrigo do CN",
+      "has_synced": true,
+      "path": "select/15_TU_JOGA_PRA_TRAS_TU_ENCOSTA_ENCOSTA_vs_NO_PIQUE_BBB_-_DJ_DN_O_ASTRO_Remix_DJ_Dn_o_Astro_feat._Mc_Mascara_&_Mc_Rodrigo_do_CN.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "TU JOGA PRA TRAS TU ENCOSTA ENCOSTA vs NO PIQUE BBB (DJ DN O ASTRO Remix)",
+      "artist": "Dj Dn o Astro, Mc Mascara, MC Rodrigo do CN",
+      "has_synced": true,
+      "path": "select/16_TU_JOGA_PRA_TRAS_TU_ENCOSTA_ENCOSTA_vs_NO_PIQUE_BBB_(DJ_DN_O_ASTRO_Remix)_Dj_Dn_o_Astro,_Mc_Mascara,_MC_Rodrigo_do_CN.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "TU JOGA PRA TRAS TU ENCOSTA ENCOSTA vs NO PIQUE BBB - DJ DN O ASTRO Remix",
+      "artist": "DJ Dn o Astro, Mc Mascara, Mc Rodrigo do CN",
+      "has_synced": false,
+      "path": "select/17_TU_JOGA_PRA_TRAS_TU_ENCOSTA_ENCOSTA_vs_NO_PIQUE_BBB_-_DJ_DN_O_ASTRO_Remix_DJ_Dn_o_Astro,_Mc_Mascara,_Mc_Rodrigo_do_CN.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BBB",
+      "artist": "柏木ひなた",
+      "has_synced": false,
+      "path": "select/pl_01_BBB_柏木ひなた.txt"
+    }
+  ]
+}
