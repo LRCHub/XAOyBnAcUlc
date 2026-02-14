@@ -1,0 +1,76 @@
+# 柏木ひなた – BBB
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Bake it Burn it Bake
+Bake it Burn it Bake
+Bake it Burn now
+Bake!
+Bake it Burn it
+Bake it Burn it
+Bake Everyone yeah
+Bake it Burn it Bake
+Bake it Bake it
+Bake it Bake it
+Bake it Burn it
+Bake! yeah
+Bake it Burn it
+Bake it Burn it
+Bake Everyone yeah
+いりません
+そんな中途半端なことじゃもう
+震えないよもう
+届きません
+生焼けの愛ばかりで
+君なら
+冷えていく
+耐熱性の心
+溶かして焦がしてよ
+あったまってそう?
+あと少しですよ
+頑張ってね
+Bake it Burn it Bake
+Bake it Burn it Bake
+Bake it Burn now
+Bake!
+Bake it Burn it
+Bake it Burn it
+Bake Everyone yeah
+Bake it Burn it Bake
+Bake it Bake it
+Bake it Bake it
+Bake it Burn it
+Bake! yeah
+Bake it Burn it
+Bake it Burn it
+Bake Everyone yeah
+甘さが足りません
+Bake it in my sugar
+su-sugar bake it in my sugar
+前段はSkip
+速攻で決めるよWhat I need
+Bake it and burn it
+Bake it and burn it
+冷えていく
+耐熱性の心
+溶かして焦がしてよ
+あったまってそう?
+あと少しですよ
+頑張ってね
+Bake it Burn it Bake
+Bake it Burn it Bake
+Bake it Burn now
+Bake!
+Bake it Burn it
+Bake it Burn it
+Bake Everyone yeah
+Bake it Burn it Bake
+Bake it Bake it
+Bake it Bake it
+Bake it Burn it
+Bake! yeah
+Bake it Burn it
+Bake it Burn it
+Bake Everyone yeah
+```
